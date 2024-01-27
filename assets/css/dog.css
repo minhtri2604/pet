@@ -1,0 +1,59 @@
+#dog-left {
+  background-image: url("../images/4.jpeg");
+}
+#dog-right-tren1 {
+  background-image: url("../images/8.png");
+}
+#dog-right-tren2 {
+  background-image: url("../images/9.png");
+}
+#dog-right-duoi1 {
+  background-image: url("../images/dog/1.jpeg");
+}
+#dog-right-duoi2 {
+  background-image: url("../images/dog/2.jpeg");
+}
+#dog-content {
+  top: 76%;
+}
+#dog-new {
+  background-color: #444;
+}
+#dog-new::after {
+  background-color: #444;
+  width: 920px;
+}
+
+/* các giống chó */
+#cacgiongcho {
+  background-image: url("../images/cacgiongcho/1.jpeg");
+}
+#giongcho-right-tren1 {
+  background-image: url("../images/cacgiongcho/2.jpeg");
+}
+#giongcho-right-tren2 {
+  background-image: url("../images/cacgiongcho/3.jpeg");
+}
+#giongcho-right-duoi1 {
+  background-image: url("../images/cacgiongcho/4.jpeg");
+}
+#giongcho-right-duoi2 {
+  background-image: url("../images/cacgiongcho/5.jpeg");
+}
+
+/* product */
+#product-left {
+  background-image: url("../images/sanphamcho/1.jpeg");
+}
+#product-right-tren1 {
+  background-image: url("../images/sanphamcho/2.jpeg");
+}
+#product-right-tren2 {
+  background-image: url("../images/sanphamcho/3.jpeg");
+}
+#product-right-duoi1 {
+  background-image: url("../images/sanphamcho/4.jpeg");
+}
+#product-right-duoi2 {
+  background-image: url("../images/sanphamcho/5.jpeg");
+}
